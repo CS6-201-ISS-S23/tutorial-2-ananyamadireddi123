@@ -1,0 +1,72 @@
+.boldText {
+    font-weight: bold;
+}
+
+.paraAlignCentered {
+    text-align: center;
+}
+
+.paraAlignRight {
+    text-align: right;
+}
+
+.fiftyPerc {
+    width: 50%;
+}
+
+.fiftyPerc {
+    width: 50%;
+}
+
+.hundPix {
+    width: 100px;
+}
+
+.divContainer {
+    width: 100%;
+    display: table;
+}
+
+.divRow {
+    display: table-row;
+}
+
+.divCell {
+    display: table-cell;
+}
+
+.divRightImgCell {
+    width: 500px;
+    height: 500px;
+    background-image: url("cat.jpg");
+    background-size: 500px;
+}
+
+.nextDiv {
+    margin-top: -470px;
+}
+
+.bigText {
+    font-size: 30px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+.colspanText {
+    text-align: center;
+    font-weight: bold;
+}
+
+.blackBgCell {
+    background-color: black;
+    color: white;
+}
+
+.redBgPara {
+    background-color: red;
+    color: white;
+}
